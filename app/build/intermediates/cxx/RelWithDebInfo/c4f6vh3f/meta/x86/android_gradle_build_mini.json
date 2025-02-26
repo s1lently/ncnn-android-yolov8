@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "/Users/zeroripper/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8 2/app/src/main/jni/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/zeroripper/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/Users/zeroripper/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8 2/app/.cxx/RelWithDebInfo/c4f6vh3f/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/zeroripper/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/Users/zeroripper/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8 2/app/.cxx/RelWithDebInfo/c4f6vh3f/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "yolov8ncnn-RelWithDebInfo-x86": {
+      "artifactName": "yolov8ncnn",
+      "buildCommandComponents": [
+        "/Users/zeroripper/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/zeroripper/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8 2/app/.cxx/RelWithDebInfo/c4f6vh3f/x86",
+        "yolov8ncnn"
+      ],
+      "abi": "x86",
+      "output": "/Users/zeroripper/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8 2/app/build/intermediates/cxx/RelWithDebInfo/c4f6vh3f/obj/x86/libyolov8ncnn.so",
+      "runtimeFiles": []
+    }
+  }
+}

@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/Users/zeroripper/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8 2/app"
+    name=":app"
+    type="APP"
+    maven="ncnn-android-yolov8 2:app:"
+    gradle="7.2.0"
+    buildFolder="build"
+    bootClassPath="/Users/zeroripper/Library/Android/sdk/platforms/android-24/android.jar:/Users/zeroripper/Library/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-24"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

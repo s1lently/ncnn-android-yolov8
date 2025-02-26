@@ -1,0 +1,8 @@
+com.tencent.yolov8ncnn.app-pngs-0 /Users/zeroripper/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8 2/app/build/generated/res/pngs/release
+com.tencent.yolov8ncnn.app-resValues-1 /Users/zeroripper/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8 2/app/build/generated/res/resValues/release
+com.tencent.yolov8ncnn.app-rs-2 /Users/zeroripper/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8 2/app/build/generated/res/rs/release
+com.tencent.yolov8ncnn.app-mergeReleaseResources-3 /Users/zeroripper/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8 2/app/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.tencent.yolov8ncnn.app-mergeReleaseResources-4 /Users/zeroripper/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8 2/app/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.tencent.yolov8ncnn.app-merged_res-5 /Users/zeroripper/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8 2/app/build/intermediates/merged_res/release
+com.tencent.yolov8ncnn.app-main-6 /Users/zeroripper/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8 2/app/src/main/res
+com.tencent.yolov8ncnn.app-release-7 /Users/zeroripper/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8 2/app/src/release/res

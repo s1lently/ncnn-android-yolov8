@@ -1,0 +1,7 @@
+Executable : /Users/zeroripper/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/zeroripper/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8/app/.cxx/Debug/6yi38616/armeabi-v7a
+yolov8ncnn
+jvmArgs : 
+

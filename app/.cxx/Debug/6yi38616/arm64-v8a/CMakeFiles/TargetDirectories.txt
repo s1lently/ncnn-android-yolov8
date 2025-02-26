@@ -1,0 +1,3 @@
+/Users/zeroripper/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8/app/.cxx/Debug/6yi38616/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/zeroripper/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8/app/.cxx/Debug/6yi38616/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/zeroripper/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8/app/.cxx/Debug/6yi38616/arm64-v8a/CMakeFiles/yolov8ncnn.dir

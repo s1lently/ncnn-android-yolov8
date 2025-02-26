@@ -1,0 +1,23 @@
+                    Executable : /Users/zeroripper/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake
+arguments : 
+-H/Users/zeroripper/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8/app/src/main/jni
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=24
+-DANDROID_PLATFORM=android-24
+-DANDROID_ABI=x86_64
+-DCMAKE_ANDROID_ARCH_ABI=x86_64
+-DANDROID_NDK=/Users/zeroripper/Library/Android/sdk/ndk/21.4.7075529
+-DCMAKE_ANDROID_NDK=/Users/zeroripper/Library/Android/sdk/ndk/21.4.7075529
+-DCMAKE_TOOLCHAIN_FILE=/Users/zeroripper/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/Users/zeroripper/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/zeroripper/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8/app/build/intermediates/cxx/Debug/6yi38616/obj/x86_64
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/Users/zeroripper/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8/app/build/intermediates/cxx/Debug/6yi38616/obj/x86_64
+-DCMAKE_BUILD_TYPE=Debug
+-B/Users/zeroripper/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8/app/.cxx/Debug/6yi38616/x86_64
+-GNinja
+jvmArgs : 
+
+
+                    Build command args: []
+                    Version: 2

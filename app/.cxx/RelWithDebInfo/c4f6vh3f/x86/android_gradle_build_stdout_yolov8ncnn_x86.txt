@@ -1,0 +1,10 @@
+ninja: Entering directory `/Users/zeroripper/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8 2/app/.cxx/RelWithDebInfo/c4f6vh3f/x86'
+[1/4] Building CXX object CMakeFiles/yolov8ncnn.dir/yolov8ncnn.cpp.o
+[2/4] Building CXX object CMakeFiles/yolov8ncnn.dir/ndkcamera.cpp.o
+/Users/zeroripper/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8 2/app/src/main/jni/ndkcamera.cpp:152:117: warning: format specifies type 'long' but the argument has type 'int64_t' (aka 'long long') [-Wformat]
+    __android_log_print(ANDROID_LOG_WARN, "NdkCamera", "onCaptureSequenceCompleted %p %d %ld", session, sequenceId, frameNumber);
+                                                                                         ~~~                        ^~~~~~~~~~~
+                                                                                         %lld
+1 warning generated.
+[3/4] Building CXX object CMakeFiles/yolov8ncnn.dir/yolo.cpp.o
+[4/4] Linking CXX shared library "/Users/zeroripper/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8 2/app/build/intermediates/cxx/RelWithDebInfo/c4f6vh3f/obj/x86/libyolov8ncnn.so"

@@ -1,0 +1,47 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.tencent.yolov8ncnn"
+4    android:versionCode="1"
+5    android:versionName="1.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->/Users/zeroripper/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8 2/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="24" />
+9-->/Users/zeroripper/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8 2/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->/Users/zeroripper/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8 2/app/src/main/AndroidManifest.xml:6:5-65
+11-->/Users/zeroripper/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8 2/app/src/main/AndroidManifest.xml:6:22-62
+12
+13    <uses-feature android:name="android.hardware.camera2.full" />
+13-->/Users/zeroripper/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8 2/app/src/main/AndroidManifest.xml:7:5-66
+13-->/Users/zeroripper/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8 2/app/src/main/AndroidManifest.xml:7:19-63
+14
+15    <application
+15-->/Users/zeroripper/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8 2/app/src/main/AndroidManifest.xml:9:5-18:19
+16        android:extractNativeLibs="false"
+17        android:label="@string/app_name" >
+17-->/Users/zeroripper/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8 2/app/src/main/AndroidManifest.xml:9:18-50
+18        <activity
+18-->/Users/zeroripper/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8 2/app/src/main/AndroidManifest.xml:10:9-17:20
+19            android:name="com.tencent.yolov8ncnn.MainActivity"
+19-->/Users/zeroripper/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8 2/app/src/main/AndroidManifest.xml:10:19-46
+20            android:label="@string/app_name"
+20-->/Users/zeroripper/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8 2/app/src/main/AndroidManifest.xml:11:19-51
+21            android:screenOrientation="portrait" >
+21-->/Users/zeroripper/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8 2/app/src/main/AndroidManifest.xml:12:19-55
+22            <intent-filter>
+22-->/Users/zeroripper/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8 2/app/src/main/AndroidManifest.xml:13:13-16:29
+23                <action android:name="android.intent.action.MAIN" />
+23-->/Users/zeroripper/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8 2/app/src/main/AndroidManifest.xml:14:17-69
+23-->/Users/zeroripper/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8 2/app/src/main/AndroidManifest.xml:14:25-66
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->/Users/zeroripper/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8 2/app/src/main/AndroidManifest.xml:15:17-77
+25-->/Users/zeroripper/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8 2/app/src/main/AndroidManifest.xml:15:27-74
+26            </intent-filter>
+27        </activity>
+28    </application>
+29
+30</manifest>

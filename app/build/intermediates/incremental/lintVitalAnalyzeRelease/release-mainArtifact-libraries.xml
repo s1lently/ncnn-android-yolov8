@@ -1,0 +1,19 @@
+<libraries>
+  <library
+      name="com.android.support:support-v4:24.0.0@aar"
+      jars="/Users/zeroripper/.gradle/caches/transforms-3/46dffd0085e7fbd77dfedef47d28d47a/transformed/support-v4-24.0.0/jars/classes.jar:/Users/zeroripper/.gradle/caches/transforms-3/46dffd0085e7fbd77dfedef47d28d47a/transformed/support-v4-24.0.0/jars/libs/internal_impl-24.0.0.jar"
+      resolved="com.android.support:support-v4:24.0.0"
+      folder="/Users/zeroripper/.gradle/caches/transforms-3/46dffd0085e7fbd77dfedef47d28d47a/transformed/support-v4-24.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.android.support:support-annotations:24.0.0@jar"
+      jars="/Users/zeroripper/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
+      resolved="com.android.support:support-annotations:24.0.0"/>
+</libraries>
